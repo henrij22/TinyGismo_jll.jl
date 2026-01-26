@@ -1,6 +1,6 @@
 name = "TinyGismo_jll"
 uuid = "7e61441e-6e6e-5c6f-8c66-76107880e13d"
-version = "0.1.9+0"
+version = "0.1.10+0"
 
 [deps]
 gismo_jll = "c3015cfb-32aa-504c-ba3d-5541e7ecaf35"
