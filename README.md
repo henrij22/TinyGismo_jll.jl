@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `TinyGismo_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/henrij22/libjltinygismo (revision: `0e9cb3e0cd79d063b695a607f4dffba926f61533`)
+* git repository: https://github.com/henrij22/libjltinygismo (revision: `46a927d5b3676dfa82f509e7f64f992a699af9ee`)
 
 ## Platforms
 
