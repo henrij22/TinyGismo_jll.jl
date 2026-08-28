@@ -5014,3 +5014,360 @@ os = "windows"
     [[TinyGismo.download]]
     sha256 = "7bb909071532f3431670a505bf2e0b68b04d7551bb6ddcf32c5859f584c0d96b"
     url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.2.0+0/TinyGismo.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+git-tree-sha1 = "e37264b5a2bf0d45e2ff74bcebd6ab50d8d14594"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[TinyGismo.download]]
+    sha256 = "c2a84e84b2aaa67c7cc4c646d3790c9b3c6b8b5f5ad0eb47be41cda247e1787a"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+git-tree-sha1 = "90d03bae3c9fea076d43f7502b22e426efe57ff7"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[TinyGismo.download]]
+    sha256 = "9dd211aafd0f1fa38369250823f6d06e1de94f48b89e9389d4863a561a9172bb"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+git-tree-sha1 = "4bad8c2158b795bd26898743b88793d283dd9621"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[TinyGismo.download]]
+    sha256 = "82f02b19eb0dd817cd75765dc8272e09991df73d5faea178909d0355890dbfc1"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a384dc7ccf912557d220528a4fce95f0a6a22a27"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "4f2ec126b0780232f8f9a0a0d1383aaaad8a265905e7f91404d710238f4c4c98"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ebf7d1a154a7143e50fe00b02a76c8f7d359ed2"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "b78fdafcf5e5fb5ace818e5db3c491d0ad86751f97487bdbb3e06ff73b9c3ca3"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b37ee541830c757d7a17787ba6e3554ca77d003c"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "7556d869da7017a0694adef785a7a7268528dca893ce97e47e80169af0d758e3"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a17305e1648e9c4519bcc5df94e2a8a73338a6be"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "c3ea3cc2ba751341d1cac8f391ba3e8b0479abfdaf007b42616bd2254ee17d5c"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05c8737e18f0d0cdd1247f1e632e7c98c9c544c6"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "53cd60452f11f121dfe9a3b7e715875d768593a182e5304ff9281ae5ad8d8b39"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15d92080211d93966d6456426a076c42b1b6e1bc"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "2db2b00697af11dcabe1bf890b135b8b992e0b51f1a1ec13452eaf85a9c29121"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+git-tree-sha1 = "b78a66bff072996efa753a9a3a9582076b89dbb4"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[TinyGismo.download]]
+    sha256 = "090da82c653922c55493dfd092908e02d87dabedd319772977bdb5034f3b4f14"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "aarch64"
+git-tree-sha1 = "eec731fd1e460dca6de806c6e5d17da034da016e"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[TinyGismo.download]]
+    sha256 = "b65c1c21aa289521b3a7a09d2f915254428dcf130739ec5e1a0468fa8c4284ee"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b14761acec261ce126c6e61c3d00e8535dcf1bf9"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "25e51ce1d6c73aaac4aefbb54292893a2f3dd1680df22919831e474ca759abb1"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33b0dd061dd56c9a4faa2bcd160b9af3bb44a464"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "97231157172f80de2c3fa60439498338823188bc90b54e2f4e12b0bf5f68a578"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13be7a00cd195ef12bf18366f614ca8401b9c8e7"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "0c58aaf82c06d2af75b7f5115d1d13746a6bfea69682fdd22fd5f24138e63eae"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73f900376be445cb038504ec3c9e61b33958141f"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[TinyGismo.download]]
+    sha256 = "2b404245212e20907937394ec255bc5c698d45b72de28d8cc4e096a84504edf6"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de3742561c661f0368643af9ceee9cf7a95e3a47"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[TinyGismo.download]]
+    sha256 = "523cbddf8c2a51bed73d06f60b5aca56d0d0a161943e86f2484f124b0e13c686"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "43e9a1b25774d3a44335d7bbd9e3088c70b2ee62"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[TinyGismo.download]]
+    sha256 = "2d89b1a5a4f761c149828cc83d8cc7b6bad01a22f297134030bba3d9a302768a"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58aa844c9f6deb875165fb4f7fde513519f676e0"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "40a19c1301823ba8c15d9d1b4281fac532f362ff45639ad2e54ecda0de3c7d9c"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58398f2f292efefe84f700b7a4728d31d1f6fc91"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "d0c137d133ae7f8f657fe21263b77431fe22f3456ed341bd4b810bb8d6ecaede"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de69f6ae7bc5da875d4c093fac7df8e010d53959"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "5ff2832b69e1cc505b3c341936415b30676ba66ea5b7329625d1de07b1d52aba"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+git-tree-sha1 = "952e0ee0e900e41ced82d3033d0d640032832a9f"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[TinyGismo.download]]
+    sha256 = "d14e6eab147651b171b5eb0f9d4df099478bc498e8dbaad9876f3d36bdfa519a"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+git-tree-sha1 = "ec26ff7e3ad7de88ffa1944e85759a3bc8c9017c"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[TinyGismo.download]]
+    sha256 = "3927a781b73aae617c9296637975c7cf73050921d06f85d2ac0cbaed55d60da3"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+git-tree-sha1 = "fc36fb7ecc8a3178d21b97a937ec9fd4b1eeb69b"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[TinyGismo.download]]
+    sha256 = "19c7367fa990f3f15bdb43da38f8bc62fa0b2037b98ef2cd9fa23167a1e1e240"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "76001d8e4a9dd819f35c2e52755fdbbedb9230b1"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "2bb7891f65ba5c1a681027be30b7dd6176be0ee50678ed7fa62b9bcaac96699b"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c025cae1707194df4c4c56befc95b5b481c5367"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "34475beb74652f1fbfa7dc6661ecb1530e4d939409922620561d3b8007218665"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcf3583dfc7a1f024dac9d449e34be62f66e83bf"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "b574eb093b8629a1508fdbc14045fd8f28cf87f3835f5093f0a180637d635734"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dbcd6cae76fb6f08e12ab830c5c9a3d1c377a3a2"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "702e82b6a8fd3b105e3fbce2d15a097c279a4669ece47c27edb92b942684a1a6"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c198c2a75d709a2328d029f170191d74c6ed147b"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "cb5077f5d090a664c0df195398d1305f606495aa3649d15fff5f1ddeda840dc0"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "777b9f0ae5003e14ca5a44f58347c52619853cd4"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[TinyGismo.download]]
+    sha256 = "22e1c8bae8cff62c9f7a555aabf0d229e935ebdc5cc05d78ca5b6f5a00cc71cb"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+git-tree-sha1 = "895d3254e7ce5fcc38718d6dcae2d8749759e290"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[TinyGismo.download]]
+    sha256 = "dfc8ded05ba2ca9caefab227713315c80e6de305ede7c69769e34506b1acf2e6"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+git-tree-sha1 = "a9392860a6d7b8752be8c23fc2fab1bbe24d47d5"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[TinyGismo.download]]
+    sha256 = "fdb0c352539f57159f6facbd506b418193c6d3c10956bb15ce0a15b58dade4c2"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+git-tree-sha1 = "19bd4a8d1e80e75dd42ce95ca099963b2eafc73f"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[TinyGismo.download]]
+    sha256 = "c25afa3be37b205f67d4845624691fab2a371ec2b4d93e97af4708d0847474b0"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d6c3fe4051170781c5c7b24fa74988146b854a3"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[TinyGismo.download]]
+    sha256 = "c2548593e075d52c2fe1aab340383996d5d1c1e2f0402248b9befdbd47f1d42e"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a74a47d74b98d24ee81d0cbc6f1d6ccf06967ed"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[TinyGismo.download]]
+    sha256 = "6d18c979d8670c647e75c5abdc3ba511bea7054ea99d6a81256f5d26cb04851b"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[TinyGismo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97f8adeb90089926f044645b17e41d4aa6f2c3cf"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[TinyGismo.download]]
+    sha256 = "20a9c716db5df4907f2bb9ff177c14f17da1ec10d8029a6601cfc5373995e328"
+    url = "https://github.com/henrij22/TinyGismo_jll.jl/releases/download/TinyGismo-v0.3.0+0/TinyGismo.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
