@@ -1,6 +1,6 @@
 name = "TinyGismo_jll"
 uuid = "7e61441e-6e6e-5c6f-8c66-76107880e13d"
-version = "0.4.0+0"
+version = "0.4.1+0"
 
 [deps]
 gismo_jll = "c3015cfb-32aa-504c-ba3d-5541e7ecaf35"
@@ -11,8 +11,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.7.0"
-julia = "~1.11, ~1.12, ~1.13"
+julia = "~1.11, ~1.12, ~1.13, ~1.14"
 gismo_jll = "~26.9.0"
-libcxxwrap_julia_jll = "~0.14.11"
+libcxxwrap_julia_jll = "~0.14.12"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
